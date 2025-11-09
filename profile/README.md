@@ -14,7 +14,7 @@ Please find info regarding my resume and portfolio, including projects from my w
 
 - My name is David Sergio. I am a graduate student of computer science at Easterin Washington University.
 - Portfolios include code, documentation, and live demos when available.
-- Thank you for your attention!
+- Thank you for your attention to this matter!
 
 ---
 
